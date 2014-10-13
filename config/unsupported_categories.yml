@@ -1,0 +1,17 @@
+Housing:
+  aiv:  apts registration fee
+  sbw:  sublet/temp wanted   
+  rew:  real estate wanted   
+  swp:  housing swap         
+  sub:  sublets & temporary  
+  reo:  real estate by owner 
+  prk:  parking & storage    
+  hou:  apts wanted          
+  ssl:  summer sublets       
+  abo:  apts by owner        
+  sha:  room/share wanted    
+  roo:  rooms & shares       
+Jobs:
+  tel: network/WAN/telcom jobs 
+Deprecated:
+  rfs: real estate for sale

@@ -1,0 +1,27 @@
+<rdf:RDF xmlns="http://purl.org/rss/1.0/"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:cl="http://www.craigslist.org/about/cl-bulk-ns/1.0">
+  <channel>
+    <items>
+      <rdf:Seq>
+        <rdf:li rdf:resource="NYCBrokerHousingSample1"/>
+        <rdf:li rdf:resource="NYCBrokerHousingSample2"/>
+      </rdf:Seq>
+    </items>
+  </channel>
+  <item rdf:about="NYCBrokerHousingSample1">
+    <cl:postedStatus>VALID</cl:postedStatus>
+    <cl:postedExplanation>This posting seems to be valid.</cl:postedExplanation>
+    <cl:previewHTML><![CDATA[
+      HTML preview of posting will appear here.
+    ]]></cl:previewHTML>
+  </item>
+  <item rdf:about="NYCBrokerHousingSample2">
+    <cl:postedStatus>VALID</cl:postedStatus>
+    <cl:postedExplanation>This posting seems to be valid.</cl:postedExplanation>
+    <cl:previewHTML><![CDATA[
+      HTML preview of posting will appear here.
+    ]]></cl:previewHTML>
+  </item>
+
+</rdf:RDF>

@@ -1,0 +1,64 @@
+auto_bodytype:
+  - '-'
+  - SUV
+  - bus
+  - convertible
+  - coupe
+  - hatchback
+  - mini-van
+  - offroad
+  - other
+  - pickup
+  - sedan
+  - truck
+  - van
+  - wagon
+
+auto_drivetrain:
+  - '-'
+  - 4wd
+  - fwd
+  - rwd
+
+auto_fuel_type:
+  - '-'
+  - diesel
+  - electric
+  - gas
+  - hybrid
+  - other
+
+auto_paint:
+  - '-'
+  - black
+  - blue
+  - brown
+  - custom
+  - green
+  - grey
+  - orange
+  - purple
+  - red
+  - silver
+  - white
+  - yellow
+
+auto_size:
+  - '-'
+  - compact
+  - full-size
+  - mid-size
+  - sub-compact
+
+auto_title_status:
+  - '-'
+  - clean
+  - parts only
+  - rebuilt
+  - salvage
+
+auto_transmission:
+  - '-'
+  - automatic
+  - manual
+  - semi-auto

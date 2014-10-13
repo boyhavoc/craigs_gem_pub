@@ -1,0 +1,43 @@
+Jobs:
+  acc: accounting/finance jobs
+  bus: business/mgmt jobs
+  csr: customer service jobs
+  edu: education/teaching jobs
+  egr: architect/engineer/CAD jobs
+  eng: internet engineering jobs
+  etc: et cetera jobs
+  fbh: food/beverage/hospitality jobs
+  gov: government jobs
+  hea: healthcare jobs
+  hum: human resource jobs
+  lab: general labor jobs
+  lgl: legal/paralegal jobs
+  mar: marketing/advertising/PR jobs
+  med: art/media/design jobs
+  mnu: manufacturing jobs
+  npo: nonprofit jobs
+  ofc: admin/office jobs
+  rej: real estate jobs
+  ret: retail/wholesale jobs
+  sad: systems/networking jobs
+  sci: science/biotech jobs
+  sec: security jobs
+  sls: sales jobs
+  sof: software/QA/DBA/etc jobs
+  spa: salon/spa/fitness jobs
+  tch: technical support jobs
+  tfr: tv/film/video/radio jobs
+  trd: skilled trades/artisan jobs
+  trp: transportation jobs
+  web: web/HTML/info design jobs
+  wri: writing/editing jobs
+Housing:
+  apa: apts/housing for rent
+  fee: apts broker fee
+  nfb: apts broker no fee
+  off: office & commercial
+  reb: real estate - by broker
+  vac: vacation rentals
+"For Sale":
+  ctd: cars & trucks - by dealer
+  tid: tickets - by dealer

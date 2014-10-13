@@ -1,0 +1,8 @@
+methods:
+  - email only
+  - email or phone
+  - email or text
+  - phone only
+  - phone,text, or email
+  - text only
+  - text or phone

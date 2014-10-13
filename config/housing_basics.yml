@@ -1,0 +1,48 @@
+bathrooms:
+  - '1'
+  - '1.5'
+  - '2'
+  - '2.5'
+  - '3'
+  - '3.5'
+  - '4'
+  - '4.5'
+  - '5'
+  - '5.5'
+  - '6'
+  - '6.5'
+  - '7'
+  - '7.5'
+  - '8'
+  - '8.5'
+  - 9+
+  - shared
+  - split
+
+housing_type:
+  - apartment
+  - assisted living
+  - condo
+  - cottage/cabin
+  - duplex
+  - flat
+  - house
+  - in-law
+  - land
+  - loft
+  - manufactured
+  - townhouse
+
+laundry:
+  - laundry in bldg
+  - laundry on site
+  - w/d hookups
+  - w/d in unit
+
+parking:
+  - attached garage
+  - carport
+  - detached garage
+  - off-street parking
+  - street parking
+  - valet parking

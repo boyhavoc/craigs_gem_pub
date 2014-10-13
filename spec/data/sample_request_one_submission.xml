@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="http://purl.org/rss/1.0/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cl="http://www.craigslist.org/about/cl-bulk-ns/1.0">
+  <channel>
+    <items>
+      <rdf:li rdf:resource="valid1"/>
+    </items>
+    <cl:auth username="errorsarehere@gmail.com" password="ginger79" accountID="14"/>
+  </channel>
+  <item rdf:about="valid1">
+    <title>1 Br Charmer in Chelsea</title>
+    <description><![CDATA[posting body goes here]]></description>
+    <cl:category>fee</cl:category>
+    <cl:area>atl</cl:area>
+    <cl:replyEmail privacy="A" outsideContactOK="0" otherContactInfo="xxx">bulkuser1@bulkposterz.net</cl:replyEmail>
+  </item>
+</rdf:RDF>

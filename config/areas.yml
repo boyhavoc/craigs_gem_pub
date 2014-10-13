@@ -1,0 +1,1146 @@
+aaa:
+  desc: ann arbor
+abb:
+  desc: fraser valley
+abi:
+  desc: abilene
+abq:
+  desc: albuquerque
+abr:
+  desc: northeast SD
+aby:
+  desc: albany, GA
+aex:
+  desc: central louisiana
+ahn:
+  desc: athens, GA
+alb:
+  desc: albany, NY
+alt:
+  desc: lehigh valley
+ama:
+  desc: amarillo
+ame:
+  desc: ames, IA
+anb:
+  desc: gadsden-anniston
+anc:
+  desc: anchorage / mat-su
+anp:
+  desc: annapolis
+aoo:
+  desc: altoona-johnstown
+app:
+  desc: appleton-oshkosh-FDL
+ash:
+  desc: asheville
+atl:
+  desc: atlanta
+  atl:
+    desc: city of atlanta
+  eat:
+    desc: otp east
+  nat:
+    desc: otp north
+  sat:
+    desc: otp south
+  wat:
+    desc: otp west
+aub:
+  desc: auburn
+aug:
+  desc: augusta
+aus:
+  desc: austin
+avp:
+  desc: scranton / wilkes-barre
+bak:
+  desc: bakersfield
+bal:
+  desc: baltimore
+bel:
+  desc: belleville, ON
+bfd:
+  desc: brantford-woodstock
+bff:
+  desc: scottsbluff / panhandle
+bgm:
+  desc: binghamton
+bhm:
+  desc: birmingham, AL
+bil:
+  desc: billings
+bis:
+  desc: bismarck
+bji:
+  desc: bemidji
+blg:
+  desc: bowling green
+bli:
+  desc: bellingham
+bln:
+  desc: bloomington-normal
+bmg:
+  desc: bloomington, IN
+bnc:
+  desc: boone
+bnd:
+  desc: bend
+boi:
+  desc: boise
+bos:
+  desc: boston
+  bmw:
+    desc: metro west
+  gbs:
+    desc: boston/cambridge/brookline
+  nos:
+    desc: north shore
+  nwb:
+    desc: northwest/merrimack
+  sob:
+    desc: south shore
+bou:
+  desc: boulder
+bpt:
+  desc: beaumont / port arthur
+brd:
+  desc: brainerd
+brl:
+  desc: vermont
+bro:
+  desc: brownsville
+brr:
+  desc: barrie
+btc:
+  desc: battle creek
+btm:
+  desc: butte
+btr:
+  desc: baton rouge
+buf:
+  desc: buffalo
+bwk:
+  desc: brunswick, GA
+bzn:
+  desc: bozeman
+cae:
+  desc: columbia, SC
+cak:
+  desc: akron / canton
+cap:
+  desc: cape cod / islands
+cat:
+  desc: catskills
+cbd:
+  desc: southern illinois
+cbg:
+  desc: cumberland valley
+cbo:
+  desc: cariboo
+ced:
+  desc: cedar rapids
+cfl:
+  desc: heartland florida
+cha:
+  desc: charlotte
+chc:
+  desc: chico
+chi:
+  desc: chicago
+  chc:
+    desc: city of chicago
+  nch:
+    desc: north chicagoland
+  nwc:
+    desc: northwest suburbs
+  nwi:
+    desc: northwest indiana
+  sox:
+    desc: south chicagoland
+  wcl:
+    desc: west chicagoland
+chk:
+  desc: chatham-kent
+chl:
+  desc: chillicothe
+chm:
+  desc: champaign urbana
+chq:
+  desc: chautauqua
+chs:
+  desc: charleston, SC
+cht:
+  desc: chattanooga
+cin:
+  desc: cincinnati, OH
+ckv:
+  desc: clarksville, TN
+cle:
+  desc: cleveland
+clg:
+  desc: calgary
+cmu:
+  desc: central michigan
+cmx:
+  desc: comox valley
+cnj:
+  desc: central NJ
+col:
+  desc: columbus, OH
+coo:
+  desc: cookeville
+cor:
+  desc: oregon coast
+cos:
+  desc: colorado springs
+cou:
+  desc: columbia / jeff city
+crp:
+  desc: corpus christi
+crv:
+  desc: corvallis/albany
+crw:
+  desc: charleston, WV
+csd:
+  desc: pierre / central SD
+csg:
+  desc: columbus, GA
+cst:
+  desc: college station
+cvn:
+  desc: clovis / portales
+dab:
+  desc: daytona beach
+dal:
+  desc: dallas / fort worth
+  dal:
+    desc: dallas
+  ftw:
+    desc: fort worth
+  mdf:
+    desc: mid cities
+  ndf:
+    desc: north DFW
+  sdf:
+    desc: south DFW
+day:
+  desc: dayton / springfield
+dbq:
+  desc: dubuque
+den:
+  desc: denver
+det:
+  desc: detroit metro
+  mcb:
+    desc: macomb county
+  okl:
+    desc: oakland county
+  wyn:
+    desc: wayne county
+dhn:
+  desc: dothan, AL
+dil:
+  desc: decatur, IL
+dlh:
+  desc: duluth / superior
+dlw:
+  desc: delaware
+dnv:
+  desc: danville
+drt:
+  desc: del rio / eagle pass
+dsm:
+  desc: des moines
+eau:
+  desc: eau claire
+eco:
+  desc: eastern CO
+edm:
+  desc: edmonton
+eid:
+  desc: east idaho
+eky:
+  desc: eastern kentucky
+elk:
+  desc: elko
+elm:
+  desc: elmira-corning
+elp:
+  desc: el paso
+ena:
+  desc: kenai peninsula
+enc:
+  desc: eastern NC
+end:
+  desc: northwest OK
+eor:
+  desc: east oregon
+eri:
+  desc: erie, PA
+esh:
+  desc: eastern shore
+etx:
+  desc: tyler / east TX
+eug:
+  desc: eugene
+evv:
+  desc: evansville
+ewv:
+  desc: eastern panhandle
+ezf:
+  desc: fredericksburg
+fai:
+  desc: fairbanks
+far:
+  desc: fargo / moorhead
+fay:
+  desc: fayetteville, NC
+fca:
+  desc: kalispell
+fdk:
+  desc: frederick
+fgl:
+  desc: finger lakes
+fhu:
+  desc: sierra vista
+flg:
+  desc: flagstaff / sedona
+flo:
+  desc: florence, SC
+fmc:
+  desc: ft mcmurray
+fmy:
+  desc: ft myers / SW florida
+  chl:
+    desc: charlotte county
+  col:
+    desc: collier county
+  lee:
+    desc: lee county
+fnm:
+  desc: farmington, NM
+fnt:
+  desc: flint
+fre:
+  desc: fresno / madera
+fsd:
+  desc: sioux falls / SE SD
+fsm:
+  desc: fort smith, AR
+ftc:
+  desc: fort collins / north CO
+ftd:
+  desc: fort dodge
+fwa:
+  desc: fort wayne
+fyv:
+  desc: fayetteville, AR
+gbo:
+  desc: greensboro
+gfk:
+  desc: grand forks
+gfl:
+  desc: glens falls
+gil:
+  desc: grand island
+gjt:
+  desc: western slope
+gld:
+  desc: gold country
+gls:
+  desc: galveston
+gnv:
+  desc: gainesville
+gph:
+  desc: guelph
+gpt:
+  desc: gulfport / biloxi
+grb:
+  desc: green bay
+grk:
+  desc: killeen / temple / ft hood
+grr:
+  desc: grand rapids
+gsp:
+  desc: greenville / upstate
+gtf:
+  desc: great falls
+hat:
+  desc: medicine hat
+hez:
+  desc: southwest MS
+hfx:
+  desc: halifax
+hhi:
+  desc: hilton head
+hky:
+  desc: hickory / lenoir
+hld:
+  desc: holland
+hln:
+  desc: helena
+hmb:
+  desc: humboldt county
+hml:
+  desc: hamilton-burlington
+hnf:
+  desc: hanford-corcoran
+hnl:
+  desc: hawaii
+  big:
+    desc: big island
+  kau:
+    desc: kauai
+  mau:
+    desc: maui
+  mol:
+    desc: molokai
+  oah:
+    desc: oahu
+hou:
+  desc: houston
+hrs:
+  desc: harrisburg
+hsv:
+  desc: huntsville / decatur
+htf:
+  desc: hartford
+hts:
+  desc: huntington-ashland
+hud:
+  desc: hudson valley
+hum:
+  desc: houma
+hvn:
+  desc: new haven
+iac:
+  desc: iowa city
+imp:
+  desc: imperial county
+ind:
+  desc: indianapolis
+inl:
+  desc: inland empire
+isp:
+  desc: long island
+ith:
+  desc: ithaca
+jan:
+  desc: jackson, MS
+jax:
+  desc: jacksonville, FL
+jbr:
+  desc: jonesboro
+jfn:
+  desc: ashtabula
+jln:
+  desc: joplin
+jnu:
+  desc: southeast alaska
+jvl:
+  desc: janesville
+jxn:
+  desc: jackson, MI
+jxt:
+  desc: jackson, TN
+jys:
+  desc: jersey shore
+kch:
+  desc: kitchener-waterloo-cambridge
+kel:
+  desc: kelowna / okanagan
+key:
+  desc: florida keys
+klf:
+  desc: klamath falls
+kml:
+  desc: kamloops
+kng:
+  desc: kingston, ON
+knx:
+  desc: knoxville
+koo:
+  desc: kootenays
+kpr:
+  desc: kennewick-pasco-richland
+krk:
+  desc: kirksville
+ksc:
+  desc: kansas city, MO
+kzo:
+  desc: kalamazoo
+laf:
+  desc: lafayette / west lafayette
+lal:
+  desc: lakeland
+lan:
+  desc: lansing
+law:
+  desc: lawton
+lax:
+  desc: los angeles
+  ant:
+    desc: antelope valley
+  lac:
+    desc: central LA 213/323
+  lgb:
+    desc: long beach / 562
+  sfv:
+    desc: san fernando valley
+  sgv:
+    desc: san gabriel valley
+  wst:
+    desc: westside-southbay-310
+lbb:
+  desc: lubbock
+lbf:
+  desc: north platte
+lcq:
+  desc: north central FL
+lcr:
+  desc: las cruces
+lex:
+  desc: lexington, KY
+lft:
+  desc: lafayette
+lgu:
+  desc: logan
+lit:
+  desc: little rock
+lkc:
+  desc: lake charles
+lma:
+  desc: lima / findlay
+lnk:
+  desc: lincoln
+lns:
+  desc: lancaster, PA
+lon:
+  desc: london, ON
+lou:
+  desc: louisville
+loz:
+  desc: lake of the ozarks
+lrd:
+  desc: laredo
+lse:
+  desc: la crosse
+lsl:
+  desc: la salle co
+lth:
+  desc: lethbridge
+lvg:
+  desc: las vegas
+lwr:
+  desc: lawrence
+lws:
+  desc: lewiston / clarkston
+lyn:
+  desc: lynchburg
+mad:
+  desc: madison
+mbs:
+  desc: saginaw-midland-baycity
+mca:
+  desc: mcallen / edinburg
+mcn:
+  desc: macon / warner robins
+mdo:
+  desc: mendocino county
+mdv:
+  desc: meadville
+mei:
+  desc: meridian
+mem:
+  desc: memphis, TN
+mer:
+  desc: merced
+mfd:
+  desc: mansfield
+mfr:
+  desc: medford-ashland
+mgm:
+  desc: montgomery
+mhk:
+  desc: manhattan, KS
+mhv:
+  desc: mohave county
+mia:
+  desc: south florida
+  brw:
+    desc: broward county
+  mdc:
+    desc: miami / dade county
+  pbc:
+    desc: palm beach county
+mil:
+  desc: milwaukee
+min:
+  desc: minneapolis / st paul
+  ank:
+    desc: anoka/chisago/isanti
+  csw:
+    desc: carver/sherburne/wright
+  dak:
+    desc: dakota / scott
+  hnp:
+    desc: hennepin county
+  ram:
+    desc: ramsey county
+  wsh:
+    desc: washington co / WI
+mkg:
+  desc: muskegon
+mkt:
+  desc: mankato
+mlb:
+  desc: space coast
+mli:
+  desc: quad cities, IA/IL
+mlk:
+  desc: moses lake
+mlu:
+  desc: monroe, LA
+mml:
+  desc: southwest MN
+mne:
+  desc: maine
+mnr:
+  desc: monroe, MI
+mnt:
+  desc: eastern montana
+mob:
+  desc: mobile
+mod:
+  desc: modesto
+mon:
+  desc: montreal
+msc:
+  desc: mason city
+msl:
+  desc: florence / muscle shoals
+mso:
+  desc: missoula
+mtb:
+  desc: monterey bay
+mto:
+  desc: mattoon-charleston
+mun:
+  desc: muncie / anderson
+mvw:
+  desc: skagit / island / SJI
+myr:
+  desc: myrtle beach
+nbw:
+  desc: new brunswick
+nct:
+  desc: northwest CT
+ndk:
+  desc: north dakota
+nfk:
+  desc: hampton roads
+nfl:
+  desc: st john's, NL
+nhm:
+  desc: new hampshire
+njy:
+  desc: north jersey
+nlo:
+  desc: eastern CT
+nmi:
+  desc: northern michigan
+nmo:
+  desc: nanaimo
+nms:
+  desc: north mississippi
+nor:
+  desc: new orleans
+nph:
+  desc: tuscarawas co
+nsc:
+  desc: niagara region
+nsh:
+  desc: nashville
+nwg:
+  desc: northwest GA
+nwi:
+  desc: northern WI
+nwk:
+  desc: northwest KS
+nyc:
+  desc: new york city
+  brk:
+    desc: brooklyn
+  brx:
+    desc: bronx
+  fct:
+    desc: fairfield co, CT
+  jsy:
+    desc: new jersey
+  lgi:
+    desc: long island
+  mnh:
+    desc: manhattan
+  que:
+    desc: queens
+  stn:
+    desc: staten island
+  wch:
+    desc: westchester
+oaj:
+  desc: jacksonville, NC
+obx:
+  desc: outer banks
+oca:
+  desc: ocala
+och:
+  desc: deep east texas
+odm:
+  desc: odessa / midland
+ogd:
+  desc: ogden-clearfield
+ohu:
+  desc: athens, OH
+okc:
+  desc: oklahoma city
+okk:
+  desc: kokomo
+okv:
+  desc: winchester
+olp:
+  desc: olympic peninsula
+oma:
+  desc: omaha / council bluffs
+onh:
+  desc: oneonta
+orc:
+  desc: orange county
+orl:
+  desc: orlando
+osu:
+  desc: stillwater
+ott:
+  desc: ottawa-hull-gatineau
+otu:
+  desc: southeast IA
+owb:
+  desc: owensboro
+ows:
+  desc: owen sound
+oxr:
+  desc: ventura county
+pax:
+  desc: peace river country
+pdx:
+  desc: portland, OR
+  clc:
+    desc: clackamas county
+  clk:
+    desc: clark/cowlitz WA
+  grg:
+    desc: columbia gorge
+  mlt:
+    desc: multnomah county
+  nco:
+    desc: north coast
+  wsc:
+    desc: washington county
+  yam:
+    desc: yamhill co
+pei:
+  desc: prince edward island
+pfn:
+  desc: panama city, FL
+phi:
+  desc: philadelphia
+phn:
+  desc: port huron
+phx:
+  desc: phoenix
+  cph:
+    desc: central/south phx
+  evl:
+    desc: east valley
+  nph:
+    desc: phx north
+  wvl:
+    desc: west valley
+pia:
+  desc: peoria
+pit:
+  desc: pittsburgh
+pkb:
+  desc: parkersburg-marietta
+plb:
+  desc: plattsburgh-adirondacks
+plm:
+  desc: pullman / moscow
+pns:
+  desc: pensacola
+poc:
+  desc: poconos
+prc:
+  desc: prescott
+prv:
+  desc: rhode island
+psl:
+  desc: treasure coast
+psp:
+  desc: palm springs, CA
+psu:
+  desc: state college
+ptd:
+  desc: potsdam-canton-massena
+pub:
+  desc: pueblo
+pvu:
+  desc: provo / orem
+qbc:
+  desc: quebec city
+qcy:
+  desc: western IL
+rac:
+  desc: kenosha-racine
+ral:
+  desc: raleigh / durham / CH
+rap:
+  desc: rapid city / west SD
+rbg:
+  desc: roseburg
+rck:
+  desc: high rockies
+rcs:
+  desc: rochester, NY
+rdd:
+  desc: redding
+rea:
+  desc: reading
+red:
+  desc: red deer
+reg:
+  desc: regina
+rfd:
+  desc: rockford
+ric:
+  desc: richmond, VA
+rin:
+  desc: richmond, IN
+rmn:
+  desc: rochester, MN
+rno:
+  desc: reno / tahoe
+roa:
+  desc: roanoke
+row:
+  desc: roswell / carlsbad
+sac:
+  desc: sacramento
+saf:
+  desc: santa fe / taos
+sat:
+  desc: san antonio
+sav:
+  desc: savannah / hinesville
+sba:
+  desc: santa barbara
+sbm:
+  desc: sheboygan, WI
+sbn:
+  desc: south bend / michiana
+sdk:
+  desc: south dakota
+sdo:
+  desc: san diego
+  csd:
+    desc: city of san diego
+  esd:
+    desc: east san diego county
+  nsd:
+    desc: north san diego county
+  ssd:
+    desc: south san diego county
+sea:
+  desc: seattle-tacoma
+  est:
+    desc: eastside
+  kit:
+    desc: kitsap / west puget
+  oly:
+    desc: olympia / thurston
+  see:
+    desc: seattle
+  skc:
+    desc: south king co
+  sno:
+    desc: snohomish county
+  tac:
+    desc: tacoma / pierce
+sek:
+  desc: southeast KS
+sfo:
+  desc: SF bay area
+  eby:
+    desc: east bay area
+  nby:
+    desc: north bay / marin
+  pen:
+    desc: peninsula
+  sby:
+    desc: south bay area
+  scz:
+    desc: santa cruz co
+  sfc:
+    desc: city of san francisco
+sgf:
+  desc: springfield, MO
+sgy:
+  desc: saguenay
+shb:
+  desc: sherbrooke
+shd:
+  desc: harrisonburg
+shv:
+  desc: shreveport
+sjt:
+  desc: san angelo
+ske:
+  desc: skeena-bulkley
+skt:
+  desc: saskatoon
+sky:
+  desc: sandusky
+slc:
+  desc: salt lake city
+sle:
+  desc: salem, OR
+slo:
+  desc: san luis obispo
+sma:
+  desc: south coast
+smd:
+  desc: southern maryland
+smo:
+  desc: southeast missouri
+smx:
+  desc: santa maria
+snj:
+  desc: south jersey
+sns:
+  desc: salina
+soo:
+  desc: sault ste marie, ON
+sow:
+  desc: show low
+spi:
+  desc: springfield, IL
+spk:
+  desc: spokane / coeur d'alene
+srn:
+  desc: sarnia
+srq:
+  desc: sarasota-bradenton
+ssk:
+  desc: siskiyou county
+ssn:
+  desc: susanville
+stc:
+  desc: st cloud
+stg:
+  desc: st george
+stj:
+  desc: st joseph
+stk:
+  desc: stockton
+stl:
+  desc: st louis, MO
+sud:
+  desc: sudbury
+sun:
+  desc: sunshine coast
+sux:
+  desc: sioux city, IA
+swk:
+  desc: southwest KS
+swm:
+  desc: southwest michigan
+swv:
+  desc: southern WV
+syr:
+  desc: syracuse
+tal:
+  desc: tallahassee
+tbr:
+  desc: statesboro
+tby:
+  desc: thunder bay
+tha:
+  desc: terre haute
+thb:
+  desc: the thumb
+toc:
+  desc: territories
+tol:
+  desc: toledo
+tor:
+  desc: toronto
+  bra:
+    desc: brampton-caledon
+  drh:
+    desc: durham region
+  mss:
+    desc: mississauga
+  oak:
+    desc: oakville-milton
+  tor:
+    desc: city of toronto
+  yrk:
+    desc: york region
+tpa:
+  desc: tampa bay area
+  hdo:
+    desc: hernando co
+  hil:
+    desc: hillsborough co
+  pnl:
+    desc: pinellas co
+  psc:
+    desc: pasco co
+tpk:
+  desc: topeka
+tri:
+  desc: tri-cities, TN
+trs:
+  desc: trois-rivieres
+tsc:
+  desc: tuscaloosa
+tsu:
+  desc: san marcos
+tts:
+  desc: twin tiers NY/PA
+tul:
+  desc: tulsa
+tus:
+  desc: tucson
+twf:
+  desc: twin falls
+txk:
+  desc: texarkana
+txm:
+  desc: texoma
+usm:
+  desc: hattiesburg
+ust:
+  desc: st augustine
+uti:
+  desc: utica-rome-oneida
+uva:
+  desc: charlottesville
+van:
+  desc: vancouver, BC
+  bnc:
+    desc: burnaby/newwest
+  nvn:
+    desc: north shore
+  pml:
+    desc: tricities/pitt/maple
+  rch:
+    desc: richmond
+  rds:
+    desc: delta/surrey/langley
+  van:
+    desc: city of vancouver
+vaw:
+  desc: southwest VA
+vic:
+  desc: victoria, BC
+vis:
+  desc: visalia-tulare
+vld:
+  desc: valdosta
+vpi:
+  desc: new river valley
+vps:
+  desc: okaloosa / walton
+vtx:
+  desc: victoria, TX
+wau:
+  desc: wausau
+wco:
+  desc: waco
+wdc:
+  desc: washington, DC
+  doc:
+    desc: district of columbia
+wdc:
+  desc: washington, DC
+  mld:
+    desc: maryland
+wdc:
+  desc: washington, DC
+  nva:
+    desc: northern virginia
+wen:
+  desc: wenatchee
+whh:
+  desc: whitehorse
+whi:
+  desc: whistler, BC
+whl:
+  desc: northern panhandle
+wic:
+  desc: wichita
+win:
+  desc: winnipeg
+wky:
+  desc: western KY
+wlo:
+  desc: waterloo / cedar falls
+wma:
+  desc: western massachusetts
+wmd:
+  desc: western maryland
+wnc:
+  desc: wilmington, NC
+wor:
+  desc: worcester / central MA
+wpt:
+  desc: williamsport
+wsl:
+  desc: winston-salem
+wsr:
+  desc: windsor
+wtf:
+  desc: wichita falls
+wtn:
+  desc: watertown
+wtx:
+  desc: southwest TX
+wva:
+  desc: west virginia (old)
+wvu:
+  desc: morgantown
+wyo:
+  desc: wyoming
+yak:
+  desc: yakima
+ybs:
+  desc: yuba-sutter
+ycc:
+  desc: cornwall, ON
+ykf:
+  desc: yellowknife
+yng:
+  desc: youngstown
+ypq:
+  desc: peterborough
+yrk:
+  desc: york, PA
+yum:
+  desc: yuma
+yup:
+  desc: upper peninsula
+yxs:
+  desc: prince george
+zvl:
+  desc: zanesville / cambridge

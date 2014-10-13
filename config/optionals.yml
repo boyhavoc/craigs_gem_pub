@@ -1,0 +1,18 @@
+allowed:
+  - images
+  - subarea
+  - neighborhood
+  - price
+  - map_location
+  - po_number
+  - housing_info
+  - broker_info
+  - job_info
+  - auto_basics
+  - events
+  - forsale
+  - generic
+  - housing_basics
+  - housing_terms
+  - job_basics
+  - personals
